@@ -15,7 +15,7 @@ cssselect==1.0.3
 cycler==0.10.0
 decorator==4.3.0
 Django==1.11.4
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 Flask==1.0.2
 Flask-SQLAlchemy==2.3.2
 Flask-Uploads==0.2.1
