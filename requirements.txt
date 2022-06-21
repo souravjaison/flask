@@ -37,7 +37,7 @@ mccabe==0.6.1
 mysql-connector==2.1.6
 mysql-connector-python==8.0.15
 networkx==2.2
-numpy==1.15.0
+numpy==1.22.0
 pandas==0.23.4
 parsel==1.4.0
 pefile==2018.8.8
